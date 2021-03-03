@@ -22,4 +22,4 @@ notifications:
     # ключ с сайта https://codecov.io
     env:
     global:
-      - CODECOV_TOKEN="325ca0c3-d1c5-4aaf-b6d6-e0901aa82fcd"
+      - CODECOV_TOKEN="ec34b540-73a6-4b5d-bff5-d2f995476952"

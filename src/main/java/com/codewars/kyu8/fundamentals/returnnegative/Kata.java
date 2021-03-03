@@ -1,4 +1,4 @@
-package com.codewars.kyu8.fundamentals;
+package com.codewars.kyu8.fundamentals.returnnegative;
 
 /**
  * @author Iuriy Gaydarzhi.
@@ -14,12 +14,6 @@ package com.codewars.kyu8.fundamentals;
 public class Kata {
 
     public static int makeNegative(final int x) {
-        if (x < 0) {
-            return x;
-        } else if (x > 0) {
-            return Integer.parseInt("-" + x);
-        } else {
-            return x;
-        }
+        return x < 0 ? x : -x;
     }
 }

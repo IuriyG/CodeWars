@@ -1,5 +1,6 @@
 package com.codewars.kyu8.fundamentals;
 
+import com.codewars.kyu8.fundamentals.returnnegative.Kata;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
