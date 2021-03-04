@@ -24,6 +24,7 @@
   + [Multiply]()
   + [Return negative]()
   + [Reserved Strings]()
+  + [Reserved Words]()
 
 + 7kyu
   + [DescendingOrder]()
