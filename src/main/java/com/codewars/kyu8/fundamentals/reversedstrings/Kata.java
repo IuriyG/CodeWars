@@ -10,6 +10,6 @@ public class Kata {
 
     public static String solution(String str) {
         StringBuilder sb = new StringBuilder(str);
-        return String.valueOf(sb.reverse());
+        return sb.reverse().toString();
     }
 }
