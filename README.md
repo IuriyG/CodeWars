@@ -25,6 +25,7 @@
   + [Reserved Strings]()
   + [Reserved Words]()
   + [Convert a Number to a String]()
+  + [Find Maximum and Minimum Values of a List]()
 
 + 7kyu
   + [DescendingOrder]()

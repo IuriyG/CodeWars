@@ -1,5 +1,7 @@
 package com.codewars.kyu8.fundamentals.findmaxandmin;
 
+import java.util.Arrays;
+
 /**
  * @author Iuriy Gaydarzhi.
  * @since 08.03.2021
@@ -7,10 +9,10 @@ package com.codewars.kyu8.fundamentals.findmaxandmin;
 public class Kata {
 
     public int min(int[] list) {
-        return 0;
+        return Arrays.stream(list).min().orElseThrow();
     }
 
     public int max(int[] list) {
-        return 0;
+        return Arrays.stream(list).max().orElseThrow();
     }
 }
