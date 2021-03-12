@@ -26,6 +26,7 @@
   + [Reserved Words]()
   + [Convert a Number to a String]()
   + [Find Maximum and Minimum Values of a List]()
+  + [Sum Mixed Array]()
 
 + 7kyu
   + [DescendingOrder]()
