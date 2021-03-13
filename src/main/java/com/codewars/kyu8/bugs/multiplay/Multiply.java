@@ -1,4 +1,4 @@
-package com.codewars.kyu8.bugs;
+package com.codewars.kyu8.bugs.multiplay;
 
 /**
  * @author Iuriy Gaydarzhi.

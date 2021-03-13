@@ -27,6 +27,7 @@
   + [Convert a Number to a String]()
   + [Find Maximum and Minimum Values of a List]()
   + [Sum Mixed Array]()
+  + [Squash the bugs]()
 
 + 7kyu
   + [DescendingOrder]()

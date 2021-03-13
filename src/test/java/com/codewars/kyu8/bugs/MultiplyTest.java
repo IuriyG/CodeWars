@@ -1,5 +1,6 @@
 package com.codewars.kyu8.bugs;
 
+import com.codewars.kyu8.bugs.multiplay.Multiply;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
