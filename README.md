@@ -28,6 +28,7 @@
   + [Find Maximum and Minimum Values of a List]()
   + [Sum Mixed Array]()
   + [Squash the bugs]()
+  + [The most asked question on CodeWars]()
 
 + 7kyu
   + [DescendingOrder]()
