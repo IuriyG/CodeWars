@@ -1,5 +1,6 @@
 package com.codewars.kyu8.algorithms;
 
+import com.codewars.kyu8.algorithms.reversewords.ReverseWords;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

@@ -1,4 +1,4 @@
-package com.codewars.kyu8.algorithms;
+package com.codewars.kyu8.algorithms.reversewords;
 
 /**
  * @author Iuriy Gaydarzhi.

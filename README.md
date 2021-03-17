@@ -20,15 +20,19 @@
 Решенные задачи:
 
 + 8kyu
-  + [Multiply]()
-  + [Return negative]()
-  + [Reserved Strings]()
-  + [Reserved Words]()
-  + [Convert a Number to a String]()
-  + [Find Maximum and Minimum Values of a List]()
-  + [Sum Mixed Array]()
-  + [Squash the bugs]()
-  + [The most asked question on CodeWars]()
+  + [Multiply](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/bugs/multiplay/Multiply.java)
+  + [Return negative](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/returnnegative/Kata.java)
+  + [Convert a Boolean to a String](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/booleantostring/BooleanToString.java)
+  + [Reserved Strings](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/reversedstrings/Kata.java)
+  + [Reserved Words](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/algorithms/ReverseWords.java)
+  + [Convert a Number to a String](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/converatnumbertoastring/Kata.java)
+  + [Find Maximum and Minimum Values of a List](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/findmaxandmin/Kata.java)
+  + [Sum Mixed Array](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/summixedarray/MixedSum.java)
+  + [Squash the bugs](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/bugs/squashthebugs/Kata.java)
+  + [The most asked question on CodeWars](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/themostaskedquestiononcodewars/Codewars.java)
+  + [Twice as old](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/twiceasold/TwiceAsOld.java)
+  + [String repeat](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/stringrepeat/Solution.java)
+  + [Stringy Strings]()
 
 + 7kyu
-  + [DescendingOrder]()
+  + [DescendingOrder](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu7/fundamentals/DescendingOrder.java)
