@@ -15,16 +15,12 @@ public class Kata {
 
     public static String stringy(int size) {
         StringBuilder sb = new StringBuilder();
-        String str;
-        int count = 1;
         for (int i = 0; i < size; i++) {
-            if (count % 2 == 0) {
-                str = "0";
+            if (i % 2 == 0) {
+                sb.append(1);
             } else {
-                str = "1";
+                sb.append(0);
             }
-            count++;
-            sb.append(str);
         }
         return sb.toString();
     }
