@@ -5,6 +5,8 @@ package com.codewars.kyu8.fundamentals.reversedstrings;
  * @since 03.03.2021
  *
  * Complete the solution so that it reverses the string passed into it.
+ *
+ * 'world'  =>  'dlrow'
  */
 public class Kata {
 

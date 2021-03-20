@@ -33,6 +33,8 @@
   + [Twice as old](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/twiceasold/TwiceAsOld.java)
   + [String repeat](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/stringrepeat/Solution.java)
   + [Stringy Strings]()
+  + [A wolf in sheep's clothing](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/awolfinsheepsclothing/ZywOo.java)
+  + [Find numbers which are divisible by given number](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/algorithms/stringystrings/Kata.java)
 
 + 7kyu
   + [DescendingOrder](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu7/fundamentals/DescendingOrder.java)
