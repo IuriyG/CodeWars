@@ -19,6 +19,7 @@ public class ZywOoTest {
         assertEquals("Oi! Sheep number 6! You are about to be eaten by a wolf!", ZywOo.warnTheSheep(new String[]{"wolf", "sheep", "sheep", "sheep", "sheep", "sheep", "sheep"}));
         assertEquals("Oi! Sheep number 1! You are about to be eaten by a wolf!", ZywOo.warnTheSheep(new String[]{"sheep", "wolf", "sheep"}));
         assertEquals("Pls go away and stop eating my sheep", ZywOo.warnTheSheep(new String[]{"sheep", "sheep", "wolf"}));
+        assertEquals("Oi! Sheep number 14! You are about to be eaten by a wolf!", ZywOo.warnTheSheep(new String[]{"sheep", "sheep", "wolf", "sheep", "sheep", "sheep", "sheep", "sheep", "sheep", "sheep", "sheep", "sheep", "sheep", "sheep", "sheep", "sheep", "sheep"}));
     }
 
     private String warnTheSheepCheck(String[] array) {

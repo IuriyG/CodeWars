@@ -62,13 +62,14 @@ public class BioTest {
     public void randomTests() throws Exception {
         for (int trial = 1; trial < 20; trial++) {
             char[] nucleotides = new char[(int) (Math.random() * 400)];
-            for (int i = 0; i < nucleotides.length; i++)
+            for (int i = 0; i < nucleotides.length; i++) {
                 nucleotides[i] = "ACGT".charAt((int) (Math.random() * 4));
-            String dna = new String(nucleotides);
-            String expected = dna.replace('T', 'U');
-            Bio b = new Bio();
-            System.out.format("Trial #%d: %s\n\n", trial, dna);
-            assertEquals(expected, b.dnaToRna(dna));
+                String dna = new String(nucleotides);
+                String expected = dna.replace('T', 'U');
+                Bio b = new Bio();
+                System.out.format("Trial #%d: %s\n\n", trial, dna);
+                assertEquals(expected, b.dnaToRna(dna));
+            }
         }
     }
 }

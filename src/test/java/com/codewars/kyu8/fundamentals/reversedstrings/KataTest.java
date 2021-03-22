@@ -14,7 +14,7 @@ import static org.junit.Assert.assertEquals;
  */
 public class KataTest {
 
-    public static String _solution(String str) {
+    public static String solution(String str) {
         return new StringBuilder(str).reverse().toString();
     }
 
@@ -37,7 +37,7 @@ public class KataTest {
                     .mapToObj(x -> Character.toString(chars.charAt(random.nextInt(chars.length()))))
                     .collect(Collectors.joining());
 
-            String expected = _solution(test);
+            String expected = solution(test);
             String actual = Kata.solution(test);
 
             assertEquals(expected, actual);

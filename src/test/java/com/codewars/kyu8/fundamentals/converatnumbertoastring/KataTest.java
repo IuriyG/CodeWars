@@ -18,8 +18,8 @@ public class KataTest {
         assertEquals("67", Kata.numberToString(67));
         assertEquals("79585", Kata.numberToString(79585));
         assertNotEquals(79585, Kata.numberToString(79585));
-        assertEquals("3", Kata.numberToString(1+2));
-        assertEquals("-1", Kata.numberToString(1-2));
+        assertEquals("3", Kata.numberToString(1 + 2));
+        assertEquals("-1", Kata.numberToString(1 - 2));
     }
 
     @Test
