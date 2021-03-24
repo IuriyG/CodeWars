@@ -35,7 +35,9 @@
   + [Stringy Strings](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/algorithms/stringystrings/Kata.java)
   + [A wolf in sheep's clothing](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/awolfinsheepsclothing/ZywOo.java)
   + [Find numbers which are divisible by given number](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/algorithms/stringystrings/Kata.java)
-  + [DNA to RNA Conversion]()
+  + [DNA to RNA Conversion](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/dnatornaconversion/Bio.java)
+  + [Fake Binary](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/fakebinary/FakeBinary.java)
+  + [Find the smallest integer in the array]()
 
 + 7kyu
   + [DescendingOrder](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu7/fundamentals/DescendingOrder.java)
