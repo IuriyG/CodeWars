@@ -37,7 +37,9 @@
   + [Find numbers which are divisible by given number](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/algorithms/stringystrings/Kata.java)
   + [DNA to RNA Conversion](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/dnatornaconversion/Bio.java)
   + [Fake Binary](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/fakebinary/FakeBinary.java)
-  + [Find the smallest integer in the array]()
+  + [Find the smallest integer in the array](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/findthesmallestintegerinthearray/SmallestIntegerFinder.java)
+  + [You Can't Code Under Pressure #1](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/youcantcodeunderpressure/Java.java)
+  + [Lario and Muigi Pipe Problem]()
 
 + 7kyu
   + [DescendingOrder](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu7/fundamentals/DescendingOrder.java)
