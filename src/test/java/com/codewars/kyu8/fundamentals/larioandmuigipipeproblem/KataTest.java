@@ -42,8 +42,9 @@ public class KataTest {
 
             for (int e = min + 1; e <= max - 1; e++) {
                 pipesAns[e - min] = e;
-                if (randGen.nextInt(21) > 5)
+                if (randGen.nextInt(21) > 5) {
                     pipesIn[e - min] = e;
+                }
             }
 
             assertArrayEquals(msg + min + "-" + max, pipesAns, Kata.pipeFix(pipesIn));
