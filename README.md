@@ -40,7 +40,9 @@
   + [Find the smallest integer in the array](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/findthesmallestintegerinthearray/SmallestIntegerFinder.java)
   + [You Can't Code Under Pressure #1](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/youcantcodeunderpressure/Java.java)
   + [Lario and Muigi Pipe Problem](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/larioandmuigipipeproblem/Kata.java)
-  + [Counting sheep...]()
+  + [Counting sheep...](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/countingsheep/Counter.java)
+  + [Quarter of the year](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/quarteroftheyear/Kata.java)
+  + [Miles per gallon to kilometers per liter]()
 
 + 7kyu
   + [DescendingOrder](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu7/fundamentals/DescendingOrder.java)
