@@ -1,4 +1,4 @@
-package com.codewars.kyu8.fundamentals.holidayVIIIdutyfree;
+package com.codewars.kyu8.fundamentals.holidaydutyfree;
 
 /**
  * @author Iuriy Gaydarzhi.
