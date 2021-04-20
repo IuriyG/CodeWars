@@ -45,7 +45,8 @@
   + [Miles per gallon to kilometers per liter](https://github.com/IuriyG/CodeWars/blob/4666ceaa1be8419f3d39729be69f42579c6aaf0d/src/main/java/com/codewars/kyu8/algorithms/milespergallontokilometersperliter/Converter.java)
   + [Holiday VIII - Duty Free](https://github.com/IuriyG/CodeWars/blob/bae66c9a468bec5c60573076082b9a73c26a3e97/src/main/java/com/codewars/kyu8/fundamentals/holidayVIIIdutyfree/Kata.java)
   + [Swap Values](https://github.com/IuriyG/CodeWars/blob/f05d9bb9ef6f5c801f7f6ffbffa6ad66d4fd2783/src/main/java/com/codewars/kyu8/bugs/swapvalues/Swapper.java)
-  + [Swap Values]()
+  + [Abbreviate a Two Word Name](https://github.com/IuriyG/CodeWars/commit/9865b1a3636efd13770ed924628ed2ee21470617)
+  + [Will you make it?]()
 
 + 7kyu
   + [DescendingOrder](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu7/fundamentals/DescendingOrder.java)
