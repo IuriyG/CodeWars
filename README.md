@@ -47,7 +47,8 @@
   + [Swap Values](https://github.com/IuriyG/CodeWars/blob/f05d9bb9ef6f5c801f7f6ffbffa6ad66d4fd2783/src/main/java/com/codewars/kyu8/bugs/swapvalues/Swapper.java)
   + [Abbreviate a Two Word Name](https://github.com/IuriyG/CodeWars/commit/9865b1a3636efd13770ed924628ed2ee21470617)
   + [Will you make it?](https://github.com/IuriyG/CodeWars/blob/22ea3a636c3cadd5ee0a6f2cecdb4a87c94fb68a/src/main/java/com/codewars/kyu8/fundamentals/willyoumakeit/Kata.java)
-  + [Calculate BMI]()
+  + [Calculate BMI](https://github.com/IuriyG/CodeWars/blob/bbadc7c4c8eed9f398d063a04a07df3b0b20a960/src/main/java/com/codewars/kyu8/fundamentals/calculatebmi/Calculate.java-)
 
 + 7kyu
   + [DescendingOrder](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu7/fundamentals/DescendingOrder.java)
+  + [Highest and Lowest]()

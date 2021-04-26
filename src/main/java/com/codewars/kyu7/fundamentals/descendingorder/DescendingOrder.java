@@ -1,4 +1,4 @@
-package com.codewars.kyu7.fundamentals;
+package com.codewars.kyu7.fundamentals.descendingorder;
 
 /**
  * @author Iuriy Gaydarzhi.
