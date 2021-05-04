@@ -48,7 +48,8 @@
   + [Abbreviate a Two Word Name](https://github.com/IuriyG/CodeWars/commit/9865b1a3636efd13770ed924628ed2ee21470617)
   + [Will you make it?](https://github.com/IuriyG/CodeWars/blob/22ea3a636c3cadd5ee0a6f2cecdb4a87c94fb68a/src/main/java/com/codewars/kyu8/fundamentals/willyoumakeit/Kata.java)
   + [Calculate BMI](https://github.com/IuriyG/CodeWars/blob/bbadc7c4c8eed9f398d063a04a07df3b0b20a960/src/main/java/com/codewars/kyu8/fundamentals/calculatebmi/Calculate.java-)
-  + [Area or Perimeter]()
+  + [Area or Perimeter](https://github.com/IuriyG/CodeWars/blob/d2076c47a8d6d41769c4c4938f7d8ea0484f9610/src/main/java/com/codewars/kyu8/fundamentals/areaorperimeter/Solution.java)
+  + [Opposites Attract]()
 
 + 7kyu
   + [DescendingOrder](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu7/fundamentals/DescendingOrder.java)
