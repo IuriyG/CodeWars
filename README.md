@@ -7,7 +7,7 @@
 
 ---
 
-<font size="3" color="#03A9F4" face="Arial"><b>[CodeWars](https://www.codewars.com "Платформа с разными заданиями — от алгоритмов до шаблонов проектирования.")</b></font> — это образовательное сообщество для любителей программирования. На платформе учатся программированию, решая задачи различной сложности, известные как «kata».
+<font size="3" color="#03A9F4" face="Arial"><b>[CodeWars](https://www.codewars.com "Платформа с разными заданиями — от алгоритмов до шаблонов проектирования.")</b></font> — это образовательное сообщество для любителей программирования. На платформе практикуются и оттачивают навыки программирования, решая задачи различной сложности, известные как «kata».
 
 Подробности о ресурсе можно узнать тут: [About](https://www.codewars.com/about)
 
@@ -49,7 +49,8 @@
   + [Will you make it?](https://github.com/IuriyG/CodeWars/blob/22ea3a636c3cadd5ee0a6f2cecdb4a87c94fb68a/src/main/java/com/codewars/kyu8/fundamentals/willyoumakeit/Kata.java)
   + [Calculate BMI](https://github.com/IuriyG/CodeWars/blob/bbadc7c4c8eed9f398d063a04a07df3b0b20a960/src/main/java/com/codewars/kyu8/fundamentals/calculatebmi/Calculate.java-)
   + [Area or Perimeter](https://github.com/IuriyG/CodeWars/blob/d2076c47a8d6d41769c4c4938f7d8ea0484f9610/src/main/java/com/codewars/kyu8/fundamentals/areaorperimeter/Solution.java)
-  + [Opposites Attract]()
+  + [Opposites Attract](https://github.com/IuriyG/CodeWars/blob/3247d0a264b6e9ee8606e0977e8dffeb07f76dcb/src/main/java/com/codewars/kyu8/fundamentals/oppositesattract/OppositesAttract.java)
+  + [Powers of 2]()
 
 + 7kyu
   + [DescendingOrder](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu7/fundamentals/DescendingOrder.java)

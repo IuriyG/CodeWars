@@ -5,15 +5,15 @@ import java.util.Arrays;
 /**
  * @author Iuriy Gaydarzhi.
  * @since 26.04.2021
- * <p>
+ *
  * In this little assignment you are given a string of space separated numbers,
  * and have to return the highest and lowest number.
- * <p>
+ *
  * Example:
  * highAndLow("1 2 3 4 5")  // return "5 1"
  * highAndLow("1 2 -3 4 5") // return "5 -3"
  * highAndLow("1 9 3 4 -5") // return "9 -5"
- * <p>
+ *
  * Notes:
  * All numbers are valid Int32, no need to validate them.
  * There will always be at least one number in the input string.
