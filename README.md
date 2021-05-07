@@ -45,12 +45,13 @@
   + [Miles per gallon to kilometers per liter](https://github.com/IuriyG/CodeWars/blob/4666ceaa1be8419f3d39729be69f42579c6aaf0d/src/main/java/com/codewars/kyu8/algorithms/milespergallontokilometersperliter/Converter.java)
   + [Holiday VIII - Duty Free](https://github.com/IuriyG/CodeWars/blob/bae66c9a468bec5c60573076082b9a73c26a3e97/src/main/java/com/codewars/kyu8/fundamentals/holidayVIIIdutyfree/Kata.java)
   + [Swap Values](https://github.com/IuriyG/CodeWars/blob/f05d9bb9ef6f5c801f7f6ffbffa6ad66d4fd2783/src/main/java/com/codewars/kyu8/bugs/swapvalues/Swapper.java)
-  + [Abbreviate a Two Word Name](https://github.com/IuriyG/CodeWars/commit/9865b1a3636efd13770ed924628ed2ee21470617)
+  + [Abbreviate a Two Word Name](https://github.com/IuriyG/CodeWars/blob/9865b1a3636efd13770ed924628ed2ee21470617/src/main/java/com/codewars/kyu8/fundamentals/abbreviatetwowords/AbbreviateTwoWords.java)
   + [Will you make it?](https://github.com/IuriyG/CodeWars/blob/22ea3a636c3cadd5ee0a6f2cecdb4a87c94fb68a/src/main/java/com/codewars/kyu8/fundamentals/willyoumakeit/Kata.java)
   + [Calculate BMI](https://github.com/IuriyG/CodeWars/blob/bbadc7c4c8eed9f398d063a04a07df3b0b20a960/src/main/java/com/codewars/kyu8/fundamentals/calculatebmi/Calculate.java-)
   + [Area or Perimeter](https://github.com/IuriyG/CodeWars/blob/d2076c47a8d6d41769c4c4938f7d8ea0484f9610/src/main/java/com/codewars/kyu8/fundamentals/areaorperimeter/Solution.java)
   + [Opposites Attract](https://github.com/IuriyG/CodeWars/blob/3247d0a264b6e9ee8606e0977e8dffeb07f76dcb/src/main/java/com/codewars/kyu8/fundamentals/oppositesattract/OppositesAttract.java)
-  + [Powers of 2]()
+  + [Powers of 2](https://github.com/IuriyG/CodeWars/blob/d7ecfc962a3fbe571fd7590eaf99c067d7f0e193/src/main/java/com/codewars/kyu8/fundamentals/powersof2/Kata.java)
+  + [Returning Strings]()
 
 + 7kyu
   + [DescendingOrder](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu7/fundamentals/DescendingOrder.java)
