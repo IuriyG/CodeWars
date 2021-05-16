@@ -55,7 +55,7 @@
     + [Powers of 2](https://github.com/IuriyG/CodeWars/blob/d7ecfc962a3fbe571fd7590eaf99c067d7f0e193/src/main/java/com/codewars/kyu8/fundamentals/powersof2/Kata.java)
     + [Returning Strings](https://github.com/IuriyG/CodeWars/blob/03c52bf12d54c61679a67d710184c2b604e51452/src/main/java/com/codewars/kyu8/fundamentals/returningstrings/Kata.java)
     + [Grasshopper - Personalized Message](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/grasshopperpersonalizedmessage/Kata.java)
-    + [Remove exclamation marks]()
+    + [Remove exclamation marks](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/removeexclamationmarks/Solution.java)
 
 + 7kyu
     + [DescendingOrder](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu7/fundamentals/DescendingOrder.java)
