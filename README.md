@@ -56,6 +56,9 @@
     + [Returning Strings](https://github.com/IuriyG/CodeWars/blob/03c52bf12d54c61679a67d710184c2b604e51452/src/main/java/com/codewars/kyu8/fundamentals/returningstrings/Kata.java)
     + [Grasshopper - Personalized Message](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/grasshopperpersonalizedmessage/Kata.java)
     + [Remove exclamation marks](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/removeexclamationmarks/Solution.java)
+    + [Find the first non-consecutive number](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu8/fundamentals/findthefirstnonconsecutivenumber/FirstNonConsecutive.java)
+    + [Gravity Flip]()
+    + [Multiplication table for number]()
 
 + 7kyu
     + [DescendingOrder](https://github.com/IuriyG/CodeWars/blob/main/src/main/java/com/codewars/kyu7/fundamentals/DescendingOrder.java)
